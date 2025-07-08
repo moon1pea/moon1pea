@@ -25,7 +25,7 @@ I plan to share my notes and learning outcomes here as I progress.
 
 ## 📫 Contact
 
-- Email: moon1peal@bupt.edu.cn 
+- Email: moon1pea@bupt.edu.cn 
 - GitHub: [@moon1pea](https://github.com/moon1pea)
 
 ---
